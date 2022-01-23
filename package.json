@@ -1,0 +1,8 @@
+{
+	"name": "signalingserver-rooms",
+	"description": "signaling server for rooms-project",
+	"version": "1.0.0",
+	"dependencies": {
+		"socket.io": "^4.4.1"
+	}
+}
